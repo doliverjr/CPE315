@@ -1,0 +1,11 @@
+Printing Result Matrix:
+******************************************************
+Done.
+
+ Performance counter stats for './mm_BColMaj':
+
+         6,311,676      cache-misses:u            #    0.187 % of all cache refs    
+     3,381,193,071      cache-references:u                                          
+
+      14.182988209 seconds time elapsed
+
