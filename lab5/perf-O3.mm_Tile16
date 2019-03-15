@@ -1,0 +1,11 @@
+Printing Result Matrix:
+******************************************************
+Done.
+
+ Performance counter stats for './mm_Tile16':
+
+        11,378,444      cache-misses:u            #    0.337 % of all cache refs    
+     3,381,367,003      cache-references:u                                          
+
+      13.929938737 seconds time elapsed
+
